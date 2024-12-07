@@ -8,3 +8,7 @@ Purpose
       Drive Sustainability: Leverage data analytics and real-time insights to optimize yields, reduce waste, and support sustainable agricultural practices.
       Empower Stakeholders: Equip farmers, mill owners, and shop owners with tools to make informed decisions, ensure fair trade, and maximize profitability.
 By integrating cutting-edge technology with traditional agricultural wisdom, the Paddy Sales Management System aims to create a brighter, more sustainable future for Sri Lankan agriculture. Together, we can support the growth of local farmers, bolster the rice industry, and contribute to the nation’s food security.
+
+***vidio Link**
+https://drive.google.com/file/d/12jLhuGuvEgJjAIM0VaR50tCSs2Y7LtcP/view?usp=sharing
+
